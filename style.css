@@ -1,0 +1,51 @@
+body {
+    background: rgb(12, 12, 224);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.432);
+}
+
+div {
+    text-align: center;
+    padding: 5px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+@media only screen and (max-width: 600px) {
+      .section {
+          width: 50vw;
+      }
+      .card {
+          width: 90vw;
+          text-align: center;
+      }
+      .card-id {
+          width: 50vw;
+          text-align: center;
+      }
+      .card-ida {
+          width: 90vw;
+          text-align: center;
+      }
+      .card-img { 
+        align-items: center;
+        text-align: center;
+        width: 170%;
+      }
+    }
