@@ -8,7 +8,6 @@
 
 <p><q>Qualquer coisa fique a vontade para me contatar</q></p>
 
-<iframe src="https://giphy.com/embed/SqTLaEIUEl2yaOievl" width="480" height="265" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/recordingacademy-grammys-2020-SqTLaEIUEl2yaOievl">via GIPHY</a></p>
 <br>
 </br>
 </div>   
